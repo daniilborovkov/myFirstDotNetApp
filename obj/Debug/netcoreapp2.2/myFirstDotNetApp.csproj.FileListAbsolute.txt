@@ -1,0 +1,11 @@
+/home/gnome/edu/myFirstDotNetApp/bin/Debug/netcoreapp2.2/myFirstDotNetApp.deps.json
+/home/gnome/edu/myFirstDotNetApp/bin/Debug/netcoreapp2.2/myFirstDotNetApp.runtimeconfig.json
+/home/gnome/edu/myFirstDotNetApp/bin/Debug/netcoreapp2.2/myFirstDotNetApp.runtimeconfig.dev.json
+/home/gnome/edu/myFirstDotNetApp/bin/Debug/netcoreapp2.2/myFirstDotNetApp.dll
+/home/gnome/edu/myFirstDotNetApp/bin/Debug/netcoreapp2.2/myFirstDotNetApp.pdb
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.csprojAssemblyReference.cache
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.csproj.CoreCompileInputs.cache
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.AssemblyInfoInputs.cache
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.AssemblyInfo.cs
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.dll
+/home/gnome/edu/myFirstDotNetApp/obj/Debug/netcoreapp2.2/myFirstDotNetApp.pdb
